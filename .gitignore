@@ -1,0 +1,12 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+
+# Gmail API credentials
+credentials.json
+token.json
+
+# System files
+.DS_Store
